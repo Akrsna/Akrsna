@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akrsna
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Ansible
+- 🌱 I’m currently exploring the Cloud and Devops tools
 - 💞️ I’m looking to collaborate on Github
 - 📫 reach me on my email achyuthakrishna.07@gmail.com
 
